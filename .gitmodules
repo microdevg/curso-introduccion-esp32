@@ -1,3 +1,6 @@
 [submodule "modulos/gpio"]
 	path = modulos/gpio
 	url = git@github.com:microdevg/gpio.git
+[submodule "modulos/pwm"]
+	path = modulos/pwm
+	url = git@github.com:microdevg/pwm.git
