@@ -4,3 +4,6 @@
 [submodule "modulos/pwm"]
 	path = modulos/pwm
 	url = git@github.com:microdevg/pwm.git
+[submodule "modulos/uart"]
+	path = modulos/uart
+	url = git@github.com:microdevg/uart.git
